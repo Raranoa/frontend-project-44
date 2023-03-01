@@ -8,6 +8,10 @@
 
 <h2>Games</h2>
 
+<h3>Brain-calc</h3>
+
+[![asciicast](https://asciinema.org/a/leOBnAy3gsnj6xfHP1DDh16Nz.svg)](https://asciinema.org/a/leOBnAy3gsnj6xfHP1DDh16Nz)
+
 <h3>Brain-even</h3>
 
 [![asciicast](https://asciinema.org/a/N3PXXoOPSeRHdnS84Es8awQ26.svg)](https://asciinema.org/a/N3PXXoOPSeRHdnS84Es8awQ26)
