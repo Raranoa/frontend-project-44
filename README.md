@@ -15,3 +15,7 @@
 <h3>Brain-even</h3>
 
 [![asciicast](https://asciinema.org/a/N3PXXoOPSeRHdnS84Es8awQ26.svg)](https://asciinema.org/a/N3PXXoOPSeRHdnS84Es8awQ26)
+
+<h3>Brain-gcd</h3>
+
+[![asciicast](https://asciinema.org/a/8j9lhEBOlIsEaPoIiIql8boXj.svg)](https://asciinema.org/a/8j9lhEBOlIsEaPoIiIql8boXj)
