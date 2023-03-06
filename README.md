@@ -26,3 +26,6 @@
 
 [![asciicast](https://asciinema.org/a/xI0LpHwJPGhH89ddCUPZO9Y6Q.svg)](https://asciinema.org/a/xI0LpHwJPGhH89ddCUPZO9Y6Q)
 
+<h3>Brain-prime</h3>
+
+[![asciicast](https://asciinema.org/a/rLr4YagevN2KvA6ZcAKSERIJT.svg)](https://asciinema.org/a/rLr4YagevN2KvA6ZcAKSERIJT)
