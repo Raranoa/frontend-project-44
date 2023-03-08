@@ -4,8 +4,6 @@ import getRandomNumber from '../randomNumbers.js';
 
 const taskGame = 'What number is missing in the progression?';
 
-const progressionLength = 10;
-
 const getProgression = (number1, lengthStep, progresLength) => {
   const progression = [];
   for (let i = 0; i < progresLength; i += 1) {
@@ -15,9 +13,10 @@ const getProgression = (number1, lengthStep, progresLength) => {
 };
 
 const startGame = () => {
-  const number1 = getRandomNumber(1, 10);
+  const progressionLength = getRandomNumber(5, 10);
+  const firstNumber = getRandomNumber(1, 10);
   const lengthStep = getRandomNumber(2, 6);
-  const progression = getProgression(number1, lengthStep, progressionLength);
+  const progression = getProgression(firstNumber, lengthStep, progressionLength);
   const finishNumber = getRandomNumber(0, getProgression.length - 1);
   const correctAnswer = progression[finishNumber];
   progression[finishNumber] = '..';
