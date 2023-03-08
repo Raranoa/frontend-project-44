@@ -10,7 +10,7 @@
   },
   "type": "module",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/Raranoa/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Raranoa/frontend-project-44/actions)",
+  "description": "'Brain Games' is a set of five console games based on the popular mobile brain training apps.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
